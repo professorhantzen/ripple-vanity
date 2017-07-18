@@ -11,8 +11,8 @@ Dependencies:
 `npm install ripple-keypairs@0.8.0`
 
 Usage:  
-`node vanity-ripple.js <search-string> <number-of-attempts>`  
-`node vanity-ripple.js xrp 100000`  
+`node ripple-vanity.js <search-string> <number-of-attempts>`  
+`node ripple-vanity.js xrp 100000`  
 
 String format:   
 `<search-string>` may be comprised of any of these characters:  
