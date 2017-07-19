@@ -12,8 +12,8 @@ var end_time 	= null;
 var valid 	= false;
 var found 	= 0;
 var usage 	= 'Ripple Vanity Address Finder v1.0\n\n'+
-		  'usage:    node vanity-ripple.js <search-string> <number-of-attempts>\n'+
-		  'example:  node vanity-ripple.js xrp 100000\n\n'+
+		  'usage:    node ripple-vanity.js <search-string> <number-of-attempts>\n'+
+		  'example:  node ripple-vanity.js xrp 100000\n\n'+
 		  '<search-string> may be comprised of any of these characters:\n'+
 		  '123456789 ABCDEFGH JKLMN PQRSTUVWXYZabcdefghijk mnopqrstuvwxyz\n'+
 		  '(Note: \'0\', \'I\', \'O\' and \'l\' are excluded.)';
